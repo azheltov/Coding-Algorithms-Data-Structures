@@ -13,7 +13,7 @@ Rule 1: Worst Case
 
 Rule 2: Remove Constants
 
-Rule 3: Different terms for inputs                              #different inputs different variables
+Rule 3: Different terms for inputs                             |||||||| different inputs different variables
 
 Rule 4: Drop Non Dominants
 
