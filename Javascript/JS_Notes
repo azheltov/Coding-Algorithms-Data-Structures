@@ -1,0 +1,23 @@
+HIGH-LEVEL (lots of abstractions like managing memory)
+Object-Oriented (based on objects for storing most kinds of data)
+Multi-Paradigm (different styles of programming)
+Programming Language
+
+What's it for?
+HTML - content, CSS - presentation, JS - programming lang
+nouns,          adjectives,         verbs
+
+frameworks: 
+frontend = React, Angular, Vue          backend = node.js
+
+
+
+
+
+alert("Hello World!")
+
+---------------------------------
+
+let js = 'amazing'
+undefined
+if (js === 'amazing') alert('JavaScript is FUN!')
