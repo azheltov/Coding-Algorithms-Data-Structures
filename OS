@@ -1,0 +1,24 @@
+Operating Systems: Abstraction (compatability, common interface) & Abitration (svetofor)
+
+Structure: Apps - Userspace Libraries/Utilities - Userspace OS - Kernel
+
+Heardware Two types: Microsoft Windows & Unix systerm (linux, mac os x, and some more)
+
+Linux - monolithic kernel (device drivers built in, but with module support) Linux System:
+
+Additional software: Network; LAMP; GUI
+bash, GNU coreultils, gcc
+GNU C Library & other libraries
+Linux kernel
+{ gap }
+
+Kernel
+Abstraction (access to hardware, scheduling multipel running programs, inter-process communication (IPC))
+
+Arbitration (prevent a single process from taking over the system, enforce security requirements (access previliges), minimize the risk of a total system crash from a buggy applicatio or device driver
+
+RESOURSES:
+
+Operating Systems: Crash Course Computer Science #18 https://www.youtube.com/watch?v=26QPDBe-NB8 (lots fo history - not useful)
+
+Operating System Full Course | Operating System Tutorials for Beginners https://www.youtube.com/watch?v=mXw9ruZaxzQ 3.5 hrs
