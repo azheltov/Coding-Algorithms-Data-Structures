@@ -1,3 +1,14 @@
+Scalability and Big O
+
+// in JS we can use timers - let t0 = performace.now() - to measure the performnce and illustrate how many milliseconds certain task take
+
+Runtime matters
+Other factors: CPU power, other programs and etc.
+
+What is good code?
+1.Readable
+2.Scalability
+
 O(n) - Liner time
 number of operations depends on the input 
 n - size of input
