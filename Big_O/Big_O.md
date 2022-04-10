@@ -19,6 +19,8 @@ n - size of input
 3. O(n^2) same as O(n * n)
 nested loops
 
+4. O(n!) - nested loop for every input (no, no, no)
+
 4 RULES of Big O
 
   Rule 1: Worst Case
