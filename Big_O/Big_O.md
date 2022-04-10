@@ -35,4 +35,14 @@ nested loops
 ("O(n + n^2) = O(n^2)")
 
 
-
+                Speed  
+ Scalability  <
+                Memory
+              + Readable
+              
+  HEAP
+  STACK     
+  
+  What causes Space Complexity?
+  
+              
