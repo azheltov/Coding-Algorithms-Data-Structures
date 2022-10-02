@@ -130,6 +130,10 @@ SET allergies = 'NKA'
 WHERE allergies isNULL;
 
 -- Show first name and last name concatinated into one column to show their full name.
-
 SELECT concat (first_name, ' ', last_name) as full_name FROM patients;
 
+-- Show how many patients have a birth_date with 2010 as the birth year.
+select count(*) from patients WHERE birth_date like '2010%';
+
+-- Show the first_name, last_name, and height of the patient with the greatest height.
+select first_name, last_name, MAX(height) FROM patients;
