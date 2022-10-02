@@ -57,3 +57,6 @@ print_msg("Hello")
 2.recoursive solution
 3.are there repetitive subproblems
 4.memoize subproblems
+
+
+
