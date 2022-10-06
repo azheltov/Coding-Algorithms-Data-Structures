@@ -137,3 +137,10 @@ select count(*) from patients WHERE birth_date like '2010%';
 
 -- Show the first_name, last_name, and height of the patient with the greatest height.
 select first_name, last_name, MAX(height) FROM patients;
+
+-- Based on the cities that our patients live in, show unique cities that are in province_id 'NS'?
+SELECT DISTINCT city  from patients where province_id="NS";
+
+-- Show all columns for patients who have one of the following patient_ids:
+1,45,534,879,1000
+SELECT *  from patients where patient_id in ('1','45','534','879','1000');
